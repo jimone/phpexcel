@@ -1,6 +1,8 @@
 <?php
+namespace phpexcel\phpexcel\cachedobjectstorage;
 
 use phpexcel\phpexcel\PHPExcel_Worksheet;
+use phpexcel\phpexcel\PHPExcel_Cell;
 /**
  * PHPExcel
  *

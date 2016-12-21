@@ -1,5 +1,7 @@
 <?php
 
+namespace phpexcel\phpexcel\cachedobjectstorage;
+
 use phpexcel\phpexcel\PHPExcel_Worksheet;
 use phpexcel\phpexcel\PHPExcel_Cell;
 use phpexcel\phpexcel\cachedobjectstorage\PHPExcel_CachedObjectStorage_ICache;

@@ -1,8 +1,10 @@
 <?php
 namespace phpexcel\phpexcel\writer\excel2007;
 
+use phpexcel\phpexcel\cell\PHPExcel_Cell_DataType;
+use phpexcel\phpexcel\shared\PHPExcel_Shared_XMLWriter;
+use phpexcel\phpexcel\shared\PHPExcel_Shared_String;
 use phpexcel\phpexcel\writer\excel2007\PHPExcel_Writer_Excel2007_WriterPart;
-
 /**
  * PHPExcel
  *

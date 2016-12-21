@@ -1,6 +1,15 @@
 <?php
 
-//namespace phpexcel;
+namespace phpexcel;
+
+use phpexcel\phpexcel\PHPExcel_Calculation;
+use phpexcel\phpexcel\PHPExcel_Worksheet;
+use phpexcel\phpexcel\PHPExcel_IComparable;
+use phpexcel\phpexcel\PHPExcel_DocumentProperties;
+use phpexcel\phpexcel\PHPExcel_DocumentSecurity;
+use phpexcel\phpexcel\PHPExcel_Style;
+use phpexcel\phpexcel\PHPExcel_WorksheetIterator;
+
 
 /**
  * PHPExcel
